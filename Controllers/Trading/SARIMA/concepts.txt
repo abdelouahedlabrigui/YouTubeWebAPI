@@ -1,0 +1,1 @@
+Seasonal autoregressive order, Seasonal differencing order, Seasonal moving average order, Seasonality period, Random Forest Regression, Feature engineering, lag features, Mean Squared Error, R-squared, shift lagged values, moving averages, Hyperparameter Tuning
